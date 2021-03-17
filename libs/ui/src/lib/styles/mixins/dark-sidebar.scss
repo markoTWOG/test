@@ -1,0 +1,11 @@
+@mixin dark-sidebar {
+  twognation-sidebar {
+    .sidebar-container {
+      button {
+        color: white;
+        background: green;
+        text-decoration: uppercase;
+      }
+    }
+  }
+}
